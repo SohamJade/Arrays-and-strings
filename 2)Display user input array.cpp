@@ -9,7 +9,7 @@ int main()
     {
         cin>>x[i];   //input from user 
     }
-
+    cout<<"The entered elements are: ";
     for(j=0;j<6;j++)
     {
         cout<<x[j]<<endl;  //printing the elements
